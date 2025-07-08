@@ -35,7 +35,7 @@ const Header: React.FC = () => {
         {/* Logo */}
         <Link to="home" smooth={true} duration={500} className="flex-shrink-0">
           <img
-            src="/assets/logo.png"
+            src="logo.png"
             alt="Bloom Daycare and Academy Logo"
             className="h-12 w-auto object-contain transition-all duration-300 hover:scale-105 hover:shadow-[0_0_15px_rgba(37,99,235,0.5)] cursor-pointer"
           />
